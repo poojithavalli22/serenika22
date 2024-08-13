@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @serenika22
----->✨"I'm a positive learner with a heart full of passion & excited about what the future holds."✨
+- ✨"I'm a positive learner with a heart full of passion & excited about what the future holds."✨
 - 
 - 
