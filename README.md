@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Serenika</h1>
+<h1 align="center">Hi 👋, I'm Poojitha Valli</h1>
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/poojithavalli" target="blank"><img src="https://img.shields.io/twitter/follow/poojithavalli?logo=twitter&style=for-the-badge" alt="poojithavalli" /></a> </p>
